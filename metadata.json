@@ -1,0 +1,6 @@
+{
+  "name": "CivicBridge AI",
+  "description": "An AI-powered Civic Resolution Agent helping communities identify, validate, prioritize, route, track, escalate, and resolve local infrastructure and public issues.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
