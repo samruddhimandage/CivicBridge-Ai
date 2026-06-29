@@ -1,424 +1,260 @@
 # 🌉 CivicBridge AI
-### One Report. Right Authority. Faster Resolution.
 
-An AI-powered civic issue resolution platform that enables citizens to **identify, report, validate, track, and resolve** community infrastructure issues through intelligent automation.
+### *One Report. Right Authority. Faster Resolution.*
 
-Built for **Vibe2Ship – India's Biggest Vibe Coding Hackathon** by **Coding Ninjas × Google for Developers** using **Google AI Studio** and **Gemini AI**.
+> **An AI-powered Civic Resolution Platform built for Vibe2Ship 2026 (Coding Ninjas × Google for Developers), leveraging Google AI Studio and Gemini AI to transform how citizens report, track, verify, and resolve community issues across India.**
 
 ---
 
-# 🚀 Problem Statement
+## 🚀 Problem Statement
 
-Communities across India frequently face issues such as:
+Communities across India frequently face infrastructure issues such as potholes, garbage dumping, water leakages, damaged streetlights, and drainage problems. Although multiple grievance portals exist, the reporting process is fragmented, difficult to navigate, and lacks transparency.
 
-- 🛣️ Potholes
-- 💡 Broken streetlights
-- 🚰 Water leakages
-- 🗑️ Garbage dumping
-- 🌧️ Drainage problems
-- 🚧 Public infrastructure damage
+Citizens often struggle to:
 
-Although multiple government grievance portals exist, they are fragmented, difficult to navigate, and often confusing for citizens. Users struggle to identify the correct department, create proper complaints, and track issue resolution.
+* Identify the correct department.
+* Draft a professional complaint.
+* Track issue progress.
+* Ensure accountability and timely resolution.
 
 ---
 
 # 💡 Our Solution
 
-**CivicBridge AI** acts as an intelligent civic resolution assistant.
+**CivicBridge AI** is an **AI-powered Civic Resolution Agent** that simplifies the complete lifecycle of civic issue management.
 
-Instead of being just another complaint portal, CivicBridge AI guides users throughout the complete issue lifecycle.
+Instead of being just another complaint portal, it intelligently assists citizens from **issue reporting to final resolution**.
 
-```
-Identify
-     ↓
-Report
-     ↓
-AI Analysis
-     ↓
-Authority Routing
-     ↓
+```text
+Report Issue
+      ↓
+AI Understands the Problem
+      ↓
+Generates Professional Complaint
+      ↓
+Routes to Correct Authority
+      ↓
 Community Verification
-     ↓
+      ↓
 Progress Tracking
-     ↓
-Escalation
-     ↓
+      ↓
+Smart Escalation
+      ↓
 Resolution
 ```
-
-Our platform simplifies civic engagement while improving transparency, accountability, and citizen participation.
 
 ---
 
 # ✨ Key Features
 
-## 📍 Smart Issue Reporting
+### 🤖 AI-Powered Issue Analysis
 
-- Image Upload
-- Voice Reporting
-- Text Reporting
-- Auto Location Detection
-- Manual Location Selection
-- Interactive Maps
+* AI categorization of civic issues
+* Severity assessment
+* Priority scoring
+* Duplicate issue detection
+* Smart authority recommendation
 
----
+### 📍 Intelligent Report Filing
 
-## 🤖 AI-Powered Issue Analysis
+* Multi-step reporting workflow
+* Voice-to-text reporting
+* Image upload
+* Interactive location detection
+* Professional complaint generation
 
-Powered by **Google Gemini AI**.
+### 🏛 Smart Authority Routing
 
-The AI automatically:
+* Automatically identifies the responsible municipal department
+* Generates ready-to-submit complaint
+* Supports municipalities across India
 
-- Detects issue category
-- Estimates severity
-- Calculates priority
-- Identifies duplicate reports
-- Determines responsible authority
-- Generates professional complaint text
+### 👥 Community Verification
 
----
+* Citizens verify reported issues
+* Upload additional evidence
+* Increase issue credibility
+* Community-driven transparency
 
-## 🏛 Intelligent Authority Routing
+### 🚨 Smart Escalation Engine
 
-Based on:
+* Generates follow-up reminders
+* Creates escalation letters
+* Suggests higher authorities for unresolved cases
 
-- Issue Type
-- Location
-- State
-- City
+### 📊 Civic Intelligence Dashboard
 
-The AI recommends the most appropriate government department and provides official complaint links.
-
----
-
-## 👥 Community Verification
-
-Citizens can:
-
-- Verify reported issues
-- Mark issues as resolved
-- Upload supporting evidence
-- Increase confidence score
-
-This reduces fake reports and improves transparency.
+* Resolution statistics
+* Priority heatmaps
+* AI-generated insights
+* Community participation analytics
 
 ---
 
-## 📊 Civic Intelligence Dashboard
+# 🧠 Agentic AI Workflow
 
-Visual dashboards showing:
+Unlike traditional complaint portals, CivicBridge AI acts as an intelligent civic assistant.
 
-- Total Reports
-- Active Issues
-- Resolution Rate
-- Priority Distribution
-- Community Participation
-- Civic Health Score
+Using **Google Gemini AI**, the platform:
 
----
+* Reasons about reported issues
+* Determines severity
+* Prioritizes complaints
+* Detects duplicate reports
+* Identifies the correct authority
+* Generates structured complaint letters
+* Suggests escalation workflows
+* Produces predictive civic insights
 
-## 🚨 Smart Escalation Engine
-
-If an issue remains unresolved, CivicBridge AI automatically generates:
-
-- Follow-up Complaint
-- Escalation Letter
-- Reminder Draft
-- Recommended Higher Authority
+This enables proactive civic issue management instead of passive complaint collection.
 
 ---
 
-## 📈 AI Insights
+# ⚡ Built with Google AI Studio
 
-Gemini generates meaningful insights such as:
+This project was developed using **Google AI Studio** as the primary AI development environment.
 
-- Frequently affected locations
-- Seasonal issue trends
-- High-risk areas
-- Community participation statistics
+Google AI Studio was used for:
 
----
+* Prompt engineering
+* Gemini model experimentation
+* AI workflow design
+* Response optimization
+* Issue classification
+* Complaint generation
+* Severity assessment
+* Smart authority routing
+* AI-powered civic insights
 
-# 🧠 Why CivicBridge AI?
-
-Current civic platforms focus only on complaint submission.
-
-CivicBridge AI focuses on **issue resolution**.
-
-Instead of simply allowing users to report problems, the platform actively assists them through intelligent automation and actionable recommendations.
-
----
-
-# 🔄 Workflow
-
-### Step 1
-
-Choose issue category.
-
-↓
-
-### Step 2
-
-Describe the issue using:
-
-- Text
-- Voice
-- Images
-
-↓
-
-### Step 3
-
-Detect or select location.
-
-↓
-
-### Step 4
-
-Gemini AI analyzes the issue.
-
-↓
-
-### Step 5
-
-Generate professional complaint.
-
-↓
-
-### Step 6
-
-Identify responsible authority.
-
-↓
-
-### Step 7
-
-Track issue progress.
-
-↓
-
-### Step 8
-
-Community verifies issue.
-
-↓
-
-### Step 9
-
-AI suggests escalation if unresolved.
-
-↓
-
-### Step 10
-
-Issue reaches resolution.
+Google Gemini serves as the intelligent decision-making engine throughout the platform.
 
 ---
 
-# 🏗 Technology Stack
+# 🛠 Technology Stack
 
-### Frontend
+## Frontend
 
-- React
-- TypeScript
-- Tailwind CSS
-- Vite
+* React
+* TypeScript
+* Vite
+* Tailwind CSS
 
-### Backend
+## Backend
 
-- Firebase
+* Express.js
 
-### Database
+## Database
 
-- Firebase Firestore
+* Firebase Firestore
 
-### Authentication (Optional)
+## Storage
 
-- Firebase Authentication
+* Firebase Storage
 
-### Storage
+## Maps
 
-- Firebase Storage
+* Google Maps API
 
-### Maps
+## AI
 
-- Google Maps
-
-### AI
-
-- Google Gemini API
-- Google AI Studio
+* Google AI Studio
+* Google Gemini API
 
 ---
 
-# 🤖 Google Technologies Used
+# 🏗 System Architecture
 
-This project was built using Google's AI ecosystem.
-
-✅ Google AI Studio
-
-- Prompt engineering
-- AI workflow design
-- Gemini testing
-- AI deployment workflow
-
-✅ Gemini API
-
-Used for:
-
-- Issue categorization
-- Severity assessment
-- Complaint generation
-- Authority recommendation
-- AI insights
-- Priority scoring
-
-✅ Firebase
-
-- Firestore Database
-- Storage
-- Hosting
-- Authentication
-
----
-
-# 🎯 Alignment with Hackathon Evaluation
-
-## Problem Solving & Impact
-
-✔ Simplifies civic issue reporting.
-
-✔ Improves transparency.
-
-✔ Encourages citizen participation.
-
----
-
-## Agentic Depth
-
-Gemini AI actively:
-
-- Reasons
-- Prioritizes
-- Recommends
-- Generates
-- Plans
-- Escalates
-
-rather than acting as a simple chatbot.
-
----
-
-## Innovation
-
-Combines:
-
-- AI
-- Community verification
-- Smart routing
-- Resolution tracking
-- Escalation workflows
-
-into one unified civic platform.
-
----
-
-## Google Technologies
-
-Built using:
-
-- Google AI Studio
-- Gemini API
-- Firebase
-- Google Maps
-
----
-
-# 📂 Project Structure
-
-```
-src/
- ├── components/
- ├── pages/
- ├── hooks/
- ├── services/
- ├── utils/
- ├── assets/
- └── App.tsx
+```text
+Citizen
+     │
+     ▼
+Report Issue
+     │
+     ▼
+Gemini AI Analysis
+     │
+     ├── Issue Classification
+     ├── Severity Assessment
+     ├── Duplicate Detection
+     ├── Complaint Generation
+     ├── Authority Recommendation
+     └── Priority Scoring
+     │
+     ▼
+Firebase Database
+     │
+     ▼
+Community Verification
+     │
+     ▼
+Tracking & Escalation
+     │
+     ▼
+Issue Resolution
 ```
 
 ---
 
-# 📦 APIs & Services
+# 📈 Hackathon Evaluation Alignment
 
-## Google Gemini API
-
-Used for:
-
-- Issue Analysis
-- Complaint Generation
-- AI Recommendations
-- Categorization
-- Priority Scoring
-
----
-
-## Google Maps API
-
-Used for:
-
-- Location Detection
-- Interactive Maps
-- Reverse Geocoding
-
----
-
-## Firebase
-
-Used for:
-
-- Firestore Database
-- Storage
-- Authentication
-- Hosting
-
----
-
-# 📚 Open Source Libraries
-
-- React
-- TypeScript
-- Tailwind CSS
-- Vite
-- React Router
-- Firebase SDK
-- Google Maps API
-- Lucide Icons
-- Framer Motion (if used)
+| Evaluation Criteria        | CivicBridge AI                                                      |
+| -------------------------- | ------------------------------------------------------------------- |
+| ✅ Problem Solving & Impact | AI-powered end-to-end civic issue resolution                        |
+| ✅ Agentic Depth            | Intelligent reasoning, prioritization, routing & escalation         |
+| ✅ Innovation & Creativity  | AI-driven civic workflow automation                                 |
+| ✅ Google Technologies      | Google AI Studio, Gemini API, Firebase, Google Maps                 |
+| ✅ Product Experience       | Clean, multilingual, user-friendly interface                        |
+| ✅ Technical Implementation | React, Firebase, Express, Gemini AI                                 |
+| ✅ Completeness             | Complete reporting → verification → tracking → resolution lifecycle |
 
 ---
 
 # 🌍 Future Scope
 
-- Integration with municipal grievance portals
-- AI-powered image damage detection
-- WhatsApp complaint support
-- Regional language voice assistant
-- Real-time municipal officer dashboard
-- Predictive civic maintenance
-- Smart City integrations
+* Integration with municipal grievance portals
+* Smart City API integration
+* WhatsApp complaint assistant
+* AI-powered infrastructure damage detection
+* Municipal officer dashboard
+* Predictive maintenance using historical civic data
 
 ---
 
-# ❤️ Built For
+# 📚 Documentation
 
-**Vibe2Ship 2026**
+Comprehensive technical documentation, feature specifications, architecture, API credits, UI details, and implementation notes are available here:
 
-India's Biggest Vibe Coding Hackathon
+📄 **[DOCUMENTATION.md](./DOCUMENTATION.md)**
 
-Powered by
+---
 
-**Coding Ninjas × Google for Developers**
+# 🙏 Open Source Credits
+
+This project is built using amazing open-source technologies and Google's AI ecosystem.
+
+### Core Technologies
+
+* React
+* TypeScript
+* Vite
+* Tailwind CSS
+* Express.js
+
+### AI & Cloud
+
+* Google AI Studio
+* Google Gemini API (`@google/genai`)
+* Firebase Firestore
+* Firebase Storage
+* Google Maps Platform
+
+### UI & Visualization
+
+* Motion (Framer Motion)
+* Recharts
+* Lucide React
+
+Special thanks to the React, Firebase, Tailwind CSS, Vite, Google AI, and open-source communities for building the tools that made this project possible.
 
 ---
 
@@ -426,14 +262,18 @@ Powered by
 
 **Samrddhi Subhash Mandage**
 
-B.Tech Student | AI & Full Stack Enthusiast
+B.Tech Student • Full-Stack Developer • AI Enthusiast
 
 ---
 
-# 📜 License
+# ❤️ Built For
 
-This project is developed for educational, innovation, and hackathon purposes.
+## **Vibe2Ship 2026**
+
+### India's Biggest Vibe Coding Hackathon
+
+**Coding Ninjas × Google for Developers**
 
 ---
 
-## ⭐ If you found this project interesting, don't forget to star the repository!
+> **"Empowering citizens with AI to build smarter, safer, and more transparent communities."**
